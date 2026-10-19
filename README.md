@@ -1,24 +1,34 @@
 ## Hi, I am Alejandro!
 
-I am actively seeking a Data Science position where I can apply my skills in machine learning and data analysis to solve real-world problems.
+I am a physicist specialized in Quantitative Analysis with Bayesian Inference & MCMC. I am actively seeking a Data Science position where I can apply my skills in machine learning and data analysis to solve real-world problems. 
+
+Always exploring new tools to expand my toolkit.
 
 ## What I do
 
 - Data analysis and visualization
-- Cleaning and transforming data with Python, C, Mathematica, Fortran, ...
+- Cleaning and transforming data with Python, C, ...
 
 ## Tech stack
 **Languages:** Python, C, Fortran, Mathematica, Cobaya, R
 **Libraries:** Pandas, NumPy, Matplotlib, GetDist
 **Tools:** Jupyter, Git, GitHub
 
-Open to learning about new tools that will help me improve my skills.
+## Currently learning
+- SQL and relational databases
+- Machine learning with Scikit-learn
+- Probabilistic programming with PyMC
+- Data visualization with Seaborn and Plotly
 
 ## Featured projects
-- [MCMC metropolis Hastings]([aleromero111/MCMC-Metropolis-Hastings](https://github.com/aleromero111/aleromero111/edit/main/README.md)) – resolution of a linear model through a MCMC Metropolis Hastings algorithm
+- [MCMC metropolis Hastings](https://github.com/aleromero111/MCMC-Metropolis-Hastings) – resolution of a linear model through a MCMC Metropolis Hastings algorithm
+
+More projects on numerical methods in different languages are coming soon.
 
 ## Let's connect
-[LinkedIn](www.linkedin.com/in/alejandroromeromora) · aleromeromora111@gmail.com
+[LinkedIn Profile](https://www.linkedin.com/in/alejandroromeromora)
+
+aleromeromora111@gmail.com
 
 
 
