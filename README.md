@@ -1,6 +1,6 @@
 ## Hi, I am Alejandro!
 
-I am a physicist specialized in Quantitative Analysis with Bayesian Inference & MCMC. I am actively seeking a Data Science position where I can apply my skills in machine learning and data analysis to solve real-world problems. 
+I'm a physicist specializing in quantitative analysis, with a focus on Bayesian inference and MCMC methods. I'm actively seeking a Data Science position where I can apply my background in statistical modeling and machine learning to solve real-world problems. 
 
 Always exploring new tools to expand my toolkit.
 
@@ -8,10 +8,13 @@ Always exploring new tools to expand my toolkit.
 
 - Data analysis and visualization
 - Cleaning and transforming data with Python, C, ...
+- Implementing numerical methods and sampling algorithms from scratch
 
 ## Tech stack
 **Languages:** Python, C, Fortran, Mathematica, Cobaya, R
+
 **Libraries:** Pandas, NumPy, Matplotlib, GetDist
+
 **Tools:** Jupyter, Git, GitHub
 
 ## Currently learning
