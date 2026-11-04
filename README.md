@@ -23,11 +23,11 @@ Always exploring new tools to expand my toolkit.
 - Data visualization with Seaborn and Plotly
 
 ## Featured projects
-- [Master's final Thesis](https://github.com/aleromero111/MCMC-Metropolis-Hastings) - Bayesian Analysis of Cosmological Observational Data
+### - [Master's final Thesis](https://github.com/aleromero111/TFM) - Bayesian Analysis of Cosmological Observational Data
 - [MCMC metropolis Hastings](https://github.com/aleromero111/MCMC-Metropolis-Hastings) – resolution of a linear model through a MCMC Metropolis Hastings algorithm
 - [C programs](https://github.com/aleromero111/C-programs) - A set of numerical methods written in C for the course Numerical Methods for Physics
 
-More projects on numerical methods in different languages are coming soon.
+More projects are coming soon.
 
 ## Let's connect
 [LinkedIn Profile](https://www.linkedin.com/in/alejandroromeromora)
