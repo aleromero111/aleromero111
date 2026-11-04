@@ -11,20 +11,21 @@ Always exploring new tools to expand my toolkit.
 - Implementing numerical methods and sampling algorithms from scratch
 
 ## Tech stack
-**Languages:** Python, C, Fortran, Mathematica, Cobaya, R
+**Languages:** Python, SQL, C, Fortran, Mathematica, Cobaya, R
 
 **Libraries:** Pandas, NumPy, Matplotlib, GetDist
 
 **Tools:** Jupyter, Git, GitHub
 
 ## Currently learning
-- SQL and relational databases
 - Machine learning with Scikit-learn
 - Probabilistic programming with PyMC
 - Data visualization with Seaborn and Plotly
 
 ## Featured projects
+- [Master's final Thesis](https://github.com/aleromero111/MCMC-Metropolis-Hastings) - Bayesian Analysis of Cosmological Observational Data
 - [MCMC metropolis Hastings](https://github.com/aleromero111/MCMC-Metropolis-Hastings) – resolution of a linear model through a MCMC Metropolis Hastings algorithm
+- [C programs](https://github.com/aleromero111/C-programs) - A set of numerical methods written in C for the course Numerical Methods for Physics
 
 More projects on numerical methods in different languages are coming soon.
 
